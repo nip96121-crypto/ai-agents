@@ -1,0 +1,17 @@
+{
+  "electronics": {
+    "name": "📱 Elektronika"
+  },
+  "clothing": {
+    "name": "👕 Kiyim-kechak"
+  },
+  "food": {
+    "name": "🍔 Oziq-ovqat"
+  },
+  "books": {
+    "name": "📚 Kitoblar"
+  },
+  "home": {
+    "name": "🏠 Uy buyumlari"
+  }
+}
